@@ -5,7 +5,7 @@ Elvex
 
 It is written by Lionel Clément at Bordeaux - France and released by LaBRI under GNU GPL License.
 
-The system, written in C++, is using handwritten *lexicon* and *grammar* as parameters, and also a *concept* (i.e. meaning + an elements of speech) as an input. Finally, the outputs of a text represent exactly the concept written in Natural Language.
+The system, written in C++, is using handwritten *lexicon* and *grammar* as parameters, and also a *concept* (i.e. meaning + an element of speech) as an input. Finally, the output of a text represents exactly the concept written in Natural Language.
 
 License
 -------
@@ -26,7 +26,7 @@ The language of **Elvex** is not under licence (it belongs to the public domain)
 What you can't do with Elvex
 -----------------------------
 
-You should ask **Elvex** to interpret exactly what you expect. **Elvex** will translate your request but will not be in the position to understand the meaning of it.
+You should ask **Elvex** to interpret exactly what you expect. **Elvex** will translate your request but it will not be in the position to understand the meaning of it.
 
 What you can do with Elvex
 -----------------------------
@@ -61,7 +61,7 @@ Sample: Causal clauses in a little French Grammar first
 
 Causal clauses with tense aggrement.
 
-In French, the basis of verbal tense and the conclusion of a causal clause depend on the aspect, the tense and even on the differences in language registers of a sentence
+In French, the basis of verbal tense and the conclusion of a causal clause depends on the aspect, the tense and even on the differences in language registers of a sentence
 
 - present: 
 if present => future
